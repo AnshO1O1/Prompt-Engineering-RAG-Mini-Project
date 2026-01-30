@@ -20,15 +20,15 @@ MODEL = "llama-3.1-8b-instant"
 ## 🏗️ System Architecture
 
 User Question
-↓
+-->
 Query Embedding
-↓
+-->
 Vector Similarity Search (Top-K = 3)
-↓
+-->
 Relevant Policy Chunks
-↓
+-->
 Prompt Injection
-↓
+-->
 LLM Answer
 
 
