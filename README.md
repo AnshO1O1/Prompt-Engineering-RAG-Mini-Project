@@ -3,6 +3,8 @@
 A Retrieval-Augmented Generation (RAG) chatbot designed to answer company policy questions accurately while strictly avoiding hallucinations.  
 The system prioritizes **correctness, refusal, and explainability** over speculative answers.
 
+Link : https://rag-mini-project.streamlit.app/
+
 ---
 
 ## 📌 Overview
